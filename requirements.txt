@@ -1,0 +1,10 @@
+# Requirements for Local Media Generation
+# License: GNU Affero General Public License v3.0
+# Author: Aravinth-Earth
+
+diffusers
+transformers
+accelerate
+safetensors
+pillow
+torch
